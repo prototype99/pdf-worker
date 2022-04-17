@@ -2,5 +2,6 @@ node_modules
 .*
 !.gitignore
 !.gitmodules
+!.gitremotes
 !.editorconfig
 build

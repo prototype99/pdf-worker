@@ -1,0 +1,6 @@
+[remote "upstream"]
+	url = git@github.com:zotero/pdf-worker.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[remote "tnajdek"]
+	url = git@github.com:tnajdek/pdf-worker.git
+	fetch = +refs/heads/*:refs/remotes/tnajdek/*
